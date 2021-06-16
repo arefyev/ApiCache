@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sample7.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Sample7.Api.Controllers.CardsController.Get(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sample7.Api.Controllers.CardsController.List">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Sample7.Api.Controllers.ProductsController.Get(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sample7.Api.Controllers.ProductsController.List">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Sample7.Api.Controllers.UsersController.Get(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Sample7.Api.Controllers.UsersController.List">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
